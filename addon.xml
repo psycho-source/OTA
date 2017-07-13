@@ -4,11 +4,12 @@
         <addon>
             <id>1</id>
             <name>Psycho-Kernel</name>
-            <description>NIL</description>
-            <updated-at>2017-07-12</updated-at>
-            <size>0</size>
+            <description>Just A Test Update To Check OTA Delievering System. Download LInk Is Same As in ROM Updates.</description>
+            <updated-at>2017-07-13</updated-at>
+            <size>138680</size>
             <download-link>
-                https://bla-bla
+                https://dl.dropbox.com/s/7oz2s1vn1y0wt81/Update-1.0.zip?dl=0
             </download-link>
         </addon>
+	</addons>
 </hash>

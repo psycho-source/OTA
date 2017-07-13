@@ -1,42 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <!-- Your ROM Name -->
   <RomName>Flyme OS 6</RomName>
-  <VersionName>0.0</VersionName>
-  <!-- Your ROM version. MUST be incrementally larger than previous versions -->
-  <!-- Do NOT use letters in your version number. Integers only -->
-  <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">0.0</VersionNumber>
-  <!-- Linking to your files -->
-    <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
-    <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
-    <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
-    <!-- HTTP link will open a web page -->
-    <!-- Direct Link overrides HTTP link -->
-  <DirectUrl nil="true">DIRECT LINKS HERE</DirectUrl>
+  <VersionName>6.7.7.7 International Beta</VersionName>
+  <VersionNumber type="integer">1.0</VersionNumber>
+  <DirectUrl>https://dl.dropbox.com/s/7oz2s1vn1y0wt81/Update-1.0.zip?dl=0</DirectUrl>
   <HttpUrl nil="true">HTTP WEBSITE LINK HERE</HttpUrl>
-  <!-- What version are you issuing? -->
   <Android>6.0.1</Android>
-  <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
-  <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5 nil="true">MD5 HERE</CheckMD5>
-  <!-- The filesize of your ROM -->
-  <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">0</FileSize>
-  <!-- Developer or Team name. You can put anything here, even a couple of names -->
-  <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
-  <Developer>* Flme OS Team
+  <CheckMD5>9a4a69d349a9ce493f0bb87cdb043347</CheckMD5>
+  <FileSize type="integer">138680</FileSize>
+  <Developer>* Flyme OS Team
   *Psycho-Mods
   </Developer>
-  <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
-  <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
-  <WebsiteURL nil="true">WEBSITE LINK HERE</WebsiteURL>
-  <!-- Your Donate URL -->
-  <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
+  <WebsiteURL>https://github.com/psycho-source</WebsiteURL>
   <DonateURL nil="true">DONATE URL HERE</DonateURL>
-  <!-- Put the changelog here... Use Markdown to format it -->
-  <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Initial Release</Changelog>
+  <Changelog>### 1.0
+  * Just a Test Update To Check OTA Delievering System.</Changelog>
 </ROM>
 <AddonCount>1</AddonCount>
 <AddonsURL>
