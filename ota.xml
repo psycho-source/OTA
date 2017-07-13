@@ -16,7 +16,3 @@
   <Changelog>### 1.0
   * Just a Test Update To Check OTA Delievering System.</Changelog>
 </ROM>
-<AddonCount>1</AddonCount>
-<AddonsURL>
-https://raw.githubusercontent.com/psycho-source/OTA/master/addon.xml
-</AddonsURL>
