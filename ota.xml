@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme_OS-6</RomName>
-  <VersionName>v1.0</VersionName>
+  <VersionName>01</VersionName>
   <VersionNumber type="integer">01</VersionNumber>
   <DirectUrl>
   https://dl.dropbox.com/s/xj4paa66uy5ujzl/Update-1.0.zip?dl=0
@@ -10,12 +10,14 @@
   <Android>6.0.1</Android>
   <CheckMD5>ac520bc5aa84142c55171c00b7660e71</CheckMD5>
   <FileSize type="integer">138680</FileSize>
-  <Developer>* Flyme OS Team
-  *Psycho-Mods
+  <Developer>
+  * Flyme OS Team
+  * Psycho-Mods
   </Developer>
   <WebsiteURL>https://github.com/psycho-source</WebsiteURL>
   <DonateURL nil="true"/>
-  <Changelog>### 1.0
+  <Changelog>### 01
   * Just a Test Update To Check OTA Delievering System.
+  * Just a Tip, from settings of this app select install preferences and uncheck both cache and dalvik-cache to prevent any unnecessary boot up delay after updates get get installed
   </Changelog>
 </ROM>
