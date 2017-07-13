@@ -11,13 +11,14 @@
   <CheckMD5>ac520bc5aa84142c55171c00b7660e71</CheckMD5>
   <FileSize type="integer">138680</FileSize>
   <Developer>
-  * Flyme OS Team
-  * Psycho-Mods
+  ## Flyme OS Team, 
+  ## Psycho-Mods
   </Developer>
   <WebsiteURL>https://github.com/psycho-source</WebsiteURL>
   <DonateURL nil="true"/>
   <Changelog>### 01
   * Just a Test Update To Check OTA Delievering System.
+  * There is some problem with checks, so even after installing updates it's still showing update available, you can check the name is available update and rom version in information and compare and update accordingly. This problem will be fixed shortly.
   * Just a Tip, from settings of this app select install preferences and uncheck both cache and dalvik-cache to prevent any unnecessary boot up delay after updates get get installed
   </Changelog>
 </ROM>
