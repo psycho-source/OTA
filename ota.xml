@@ -39,4 +39,6 @@
   <Changelog>### Initial Release</Changelog>
 </ROM>
 <AddonCount>1</AddonCount>
-<AddonsURL></AddonsURL>
+<AddonsURL>
+https://raw.githubusercontent.com/psycho-source/OTA/master/addon.xml
+</AddonsURL>
