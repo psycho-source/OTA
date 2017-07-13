@@ -2,7 +2,7 @@
 <ROM>
   <RomName>Flyme_OS-6</RomName>
   <VersionName>v1.0</VersionName>
-  <VersionNumber type="integer">1.0</VersionNumber>
+  <VersionNumber type="decimal">1.0</VersionNumber>
   <DirectUrl>
   https://dl.dropbox.com/s/7oz2s1vn1y0wt81/Update-1.0.zip?dl=0
   </DirectUrl>
