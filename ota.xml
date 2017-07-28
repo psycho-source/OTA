@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme_OS-6</RomName>
-  <VersionName>03</VersionName>
-  <VersionNumber type="integer">03</VersionNumber>
-  <DirectUrl>aops.coolpage.biz/Update03.zip</DirectUrl>
+  <VersionName>04</VersionName>
+  <VersionNumber type="integer">04</VersionNumber>
+  <DirectUrl>https://raw.githubusercontent.com/psycho-source/OTA/master/04/Update04.zip</DirectUrl>
   <HttpUrl nil="true"/>
   <Android>6.0.1</Android>
-  <CheckMD5>68dd2f9469014dfbd57f488ce990f45c</CheckMD5>
-  <FileSize type="integer">7353234</FileSize>
+  <CheckMD5>0e4c4506a47386533c2502cec79b13c9</CheckMD5>
+  <FileSize type="integer">51209432</FileSize>
   <Developer>## Flyme OS Team, ## Psycho-Mods</Developer>
   <WebsiteURL>https://github.com/psycho-source</WebsiteURL>
   <DonateURL nil="true"/>
-  <Changelog> ### 03 * Updated Base to 6.7.7.14 Beta International. * Corrected Default APNs. * A Factory reset is recommended, not necessary for best experience</Changelog>
+  <Changelog> ### 04 * Updated Base to 6.7.7.21 Beta International. * Corrected Default APNs. * A Factory reset is recommended, not necessary for best experience * I Am Working on Compiling this whole ROM again so I might not be able to give you updates This Fast! Just Hold On for few Days, Most probably will fix all bugs.</Changelog>
 </ROM>
